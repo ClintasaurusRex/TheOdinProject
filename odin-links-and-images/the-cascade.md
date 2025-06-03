@@ -1,5 +1,18 @@
 # The Cascade in CSS
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Lesson Overview](#lesson-overview)
+- [The Cascade of CSS](#the-cascade-of-css)
+- [Specificity](#specificity)
+  - [Not everything adds to specificity](#not-everything-adds-to-specificity)
+- [Inheritance](#inheritance)
+- [Rule Order](#rule-order)
+- [Assignment](#assignment)
+- [Knowledge Check](#knowledge-check)
+- [Additional Resources](#additional-resources)
+
 ## Introduction
 
 In the previous lesson, we covered basic CSS syntax and selectors. Now, it’s time to combine our knowledge of selectors with the C of CSS – the cascade.
