@@ -108,6 +108,6 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
-- [Scrim on the box model](https://scrimba.com/scrim/box-model) — For a more interactive explanation and example, try this Scrim on the box model.
+- [Scrim on the box model](https://scrimba.com/s04r6p2) — For a more interactive explanation and example, try this Scrim on the box model.
 - [Kevin Powell](https://www.youtube.com/watch?v=x_i2gga-sYg) - Block, Inline and Inline block
 - [Box Model Video Tutorial by Slaying The Dragon](https://www.youtube.com/watch?v=0xMQfnTU6oo) — This informative video tutorial offers a valuable resource for understanding the box model.
